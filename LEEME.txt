@@ -1,0 +1,19 @@
+Para lanzar el programa desde una terminal: python ./msnp2.py suponiendo que estás ya dentro de la carpeta que contiene al programa, o bien dar permisos de ejecución al archivo msnp2.py y ejecutar desde la terminal ./msnp2.py
+
+Los archivos que se distribuyen con este archivo LEEME.txt, representan únicamente el proceso para poder entrar y autenticarse en la red MSN de microsoft (añadido a última hora: ya muestra los contactos de tu lista!!! (en xml bruto)). Aún falta mucho por hacer, de hecho, solo funciona si introducimos una cuenta real, con su correspondiente contraseña, pues el proceso de login aún no está preparado para recibir los mensajes de error por parte del Servidor, por tanto si esto se produciese, el programa acabaría de forma inexperada.
+
+NOTA: Para que muestre los contactos en formato XML descomenta el último PRINT del archivo msnp2.py. Solo es recomendable para curiosear, puesto que muestra los datos brutos, tal y como los manda el servidor, aún tienen que ser tratados.
+
+Este software ha sido desarrollado por Ángel Luis Perales Gómez en Python 2.6, con ayuda del proyecto emesene y de la página: http://msnpiki.msnfanatic.com/index.php/Main_Page y también con la ayuda de wireshark para determinar algunos comandos y detalles del protocolo. El objetivo a medio plazo es crear una biblioteca funcional para el protocolo MSN y el objetivo a largo plazo es crear un cliente MSN.
+
+A día 29/11/2011 el proyecto se compone de:
+ - msnp2.py: Se encarga del proceso de login en si
+ - colorText.py: Se definen ciertos colores para poder usarlos en la consola
+ - parser.py: Un parser para el comando USR con el parámetro S
+ - protocol.py: Define el protocolo usado por la red MSN
+ - pydes.py: Una biblioteca que facilita funciones de compresión y hashing
+ - soap.py: Mensajes del protocolo SOAP
+
+Aunque python es un lenguaje multiplataforma, al usar colores de la terminal de linux (y más concretamente de BASH), este proyecto no funcionará en Windows
+
+ATENCIÓN: Si intentas probarlo y no funciona, no es culpa del programa, es debido a que ultimamente Microsoft está realizando cambios en sus servidores.
