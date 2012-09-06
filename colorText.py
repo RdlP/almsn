@@ -1,0 +1,25 @@
+colores = {
+	'HEADER' : '\033[95m',
+	'OKBLUE': '\033[94m',
+	'OKGREEN' : '\033[92m',
+	'WARNING' : '\033[93m',
+	'FAIL' : '\033[91m',
+	'NORMAL' : '\033[0m',
+	'NEGRO' : '\033[0;30m',
+	'GRIS_OSCURO' : '\033[1;30m',
+	'ROJO' : '\033[0;31m',
+	'ROJO_CLARO' : '\033[1;31m',
+	'VERDE' : '\033[0;32m',
+	'VERDE_CLARO' : '\033[1;32m',
+	'MARRON' : '\033[0;33m',
+	'AMARILLO' : '\033[1;33m',
+	'AZUL' : '\033[0;34m',
+	'AZUL_CLARO' : '\033[1;34m',
+	'PURPURA' : '\033[0;35m',
+	'PURPURA_CLARO' : '\033[1;35m',
+	'CYAN' : '\033[0;36m',
+	'CYAN_CLARO' : '\033[1;36m',
+	'GRIS_CLARO' : '\033[0;37m',
+	'BLANCO' : '\033[1;37m'
+}
+

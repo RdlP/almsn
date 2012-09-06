@@ -1,0 +1,127 @@
+>>> CHG 5 NLN 1342472230 0
+<<< CHG 5 NLN 1342472230 0
+<<< MSG Hotmail Hotmail 289
+duplicate pm
+sqlite3 imported
+File /home/angelluis/.config/emesene1.0/angelprueba89_hotmail_com/custom_emoticons/map does not exist, skipping
+>>> BLP 6 BL
+>>> PRP 7 MFN angelprueba89%40hotmail.com
+soap.manager.put(<SoapRequest GetProfile>)
+soap.manager makeSoapRequest(): <SoapRequest GetProfile>
+http://www.msn.com/webservices/storage/w10/GetProfile
+MIME-Version: 1.0
+Content-Type: text/x-msmsgsinitialmdatanotification; charset=UTF-8
+Mail-Data: <MD><E><I>1</I><IU>0</IU><O>0</O><OU>0</OU></E><Q><QTM>409600</QTM><QNM>204800</QNM></Q></MD>
+Inbox-URL: /cgi-bin/HoTMaiL
+Folders-URL: /cgi-bin/folders
+Post-URL: http://www.hotmail.com
+<<< BLP 6 BL
+<<< PRP 7 MFN angelprueba89%40hotmail.com
+duplicate pm
+soap.manager.process(): <SoapRequest GetProfile (200, 'OK')>
+soap.manager.process(): Calling onGetProfile()
+<<< CHL 0 14707028012858181072039752650
+>>> QRY 8 PROD01065C%ZFN6F 32
+c7f8993f69630105f0cf119ae38c35a6
+<<< QRY 8
+>>> PNG
+<<< QNG 39
+invalid iter
+>>> ADL 9 63
+<ml><d n="hotmail.com"><c n="elenika91" l="1" t="1" /></d></ml>
+>>> ADL 10 63
+<ml><d n="hotmail.com"><c n="elenika91" l="2" t="1" /></d></ml>
+soap.manager.put(<SoapRequest ABContactAdd>)
+soap.manager makeSoapRequest(): <SoapRequest ABContactAdd>
+http://www.msn.com/webservices/AddressBook/ABContactAdd
+<<< ADL 9 OK
+<<< ADL 10 OK
+>>> PNG
+<<< QNG 45
+>>> PNG
+<<< QNG 49
+>>> PNG
+<<< QNG 43
+invalid iter
+>>> ADL 11 67
+<ml><d n="hotmail.com"><c n="angelluispg89" l="1" t="1" /></d></ml>
+>>> ADL 12 67
+<ml><d n="hotmail.com"><c n="angelluispg89" l="2" t="1" /></d></ml>
+soap.manager.put(<SoapRequest ABContactAdd>)
+soap.manager makeSoapRequest(): <SoapRequest ABContactAdd>
+http://www.msn.com/webservices/AddressBook/ABContactAdd
+<<< ADL 11 OK
+<<< ADL 12 OK
+>>> PNG
+<<< QNG 44
+<<< NLN NLN angelluispg89@hotmail.com 1 \xc3\x81ngel%20Luis 2688340284 %3cmsnobj%20Creator%3d%22angelluispg89%40hotmail.com%22%20Size%3d%225390%22%20Type%3d%223%22%20Location%3d%220%22%20Friendly%3d%22AAA%3d%22%20SHA1D%3d%22RZW585t5UbA8LqXWQVoT8nYbOYA%3d%22%20SHA1C%3d%224nYDseeDMqzzX3vbMbqhoY%2fOz7c%3d%22%2f%3e
+\xc3\x81ngel Luis (angelluispg89@hotmail.com) changed status from FLN to NLN
+<<< UBX angelluispg89@hotmail.com 1 880
+<<< <Data><UserTileLocation>&lt;msnobj Creator="angelluispg89@hotmail.com" Size="5390" Type="3" Location="0" Friendly="AAA=" SHA1D="RZW585t5UbA8LqXWQVoT8nYbOYA=" SHA1C="4nYDseeDMqzzX3vbMbqhoY/Oz7c="/&gt;</UserTileLocation><RUM> - New! www.ebuddyxms.com eBuddy XMS, free smartphone messaging!</RUM><PSM> - New! www.ebuddyxms.com eBuddy XMS, free smartphone messaging!</PSM><SignatureSound></SignatureSound><Scene></Scene><ColorScheme></ColorScheme><MachineGuid>{6B947C8A-B433-1707-06B3-13F9AD6B7BC9}</MachineGuid><DDP></DDP><SUL>8,17,http://link.live.net/?l=http%3a%2f%2fwww.ebuddyxms.com&amp;h=V%2fHJerpYEz1l29jZLW1kj7KncAinL4%2bio%2ffhfB%2fLj28%3d&amp;p=1&amp;u=684FDDF1E7FFB707</SUL><FriendlyName>\xc3\x81ngel Luis</FriendlyName><CurrentMedia></CurrentMedia><EndpointData id="{6b947c8a-b433-1707-06b3-13f9ad6b7bc9}"><Capabilities>2688340284:2550273040</Capabilities></EndpointData></Data>
+sys:1: Warning: g_object_ref: assertion `object->ref_count > 0' failed
+
+(emesene:4253): GStreamer-CRITICAL **: gst_object_unref: assertion `((GObject *) object)->ref_count > 0' failed
+>>> XFR 13 SB
+<<< XFR 13 SB 65.55.71.155:1863 CKI 514230594.2533137.61231209 U messenger.msn.com 1
+Thread-4 start
+>>> USR 1 angelprueba89@hotmail.com 514230594.2533137.61231209
+<<< USR 1 OK angelprueba89@hotmail.com angelprueba89%40hotmail.com
+>>> CAL 2 angelluispg89@hotmail.com
+<<< CAL 2 RINGING 514230594
+<<< JOI angelluispg89@hotmail.com \xc3\x81ngel%20Luis 2688340284
+>>> MSG 3 D 830
+MIME-Version: 1.0
+Content-Type: application/x-msnmsgrp2p
+P2P-Dest: angelluispg89@hotmail.com
+
+\x00\x00\x00\x00 2':\x00\x00\x00\x00\x00\x00\x00\x00\xa8\x02\x00\x00\x00\x00\x00\x00\xa8\x02\x00\x00\x00\x00\x00\x00\xaa\x9bg\x12\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00INVITE MSNMSGR:angelluispg89@hotmail.com MSNSLP/1.0
+To: <msnmsgr:angelluispg89@hotmail.com>
+From: <msnmsgr:angelprueba89@hotmail.com>
+Via: MSNSLP/1.0/TLP ;branch={6172A988-90A4-61AE-3221-520B3D1A90C2}
+CSeq: 0 
+Call-ID: {24FA91FA-69A4-26F1-6AF8-62DE82703056}
+Max-Forwards: 0
+Content-Type: application/x-msnmsgr-sessionreqbody
+Content-Length: 324
+
+AppID: 1
+EUF-GUID: {A4268EEC-FEC5-49E5-95C3-F126696BDBF6}
+SessionID: 183065448
+Context: PG1zbm9iaiBDcmVhdG9yPSJhbmdlbGx1aXNwZzg5QGhvdG1haWwuY29tIiBTaXplPSI1MzkwIiBUeXBlPSIzIiBMb2NhdGlvbj0iMCIgRnJpZW5kbHk9IkFBQT0iIFNIQTFEPSJSWlc1ODV0NVViQThMcVhXUVZvVDhuWWJPWUE9IiBTSEExQz0iV1VjNEczNk1Qb081Q3ZSNkxwN2pIQm04aTFVPSIvPgA=
+
+\x00\x00\x00\x00\x00
+message queue flushed
+<<< ACK 3
+<<< NOT 605
+>>> PNG
+<<< QNG 43
+<<< MSG angelluispg89@hotmail.com \xc3\x81ngel%20Luis 131
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+X-MMS-IM-Format: FN=Arial; EF=B; CO=000000; CS=0; PF=00; RL=0;
+
+hola!
+>>> MSG 4 A 120
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+X-MMS-IM-Format: FN=Sans; EF=; CO=000000; PF=0 ;RL=0
+
+hola
+<<< ACK 4
+>>> PNG
+<<< QNG 45
+^CInterrupt (5 more times to close)
+^CInterrupt (4 more times to close)
+^CInterrupt (3 more times to close)
+^CInterrupt (2 more times to close)
+^CInterrupt (1 more times to close)
+duplicate pm
+>>> OUT
+Thread-2 quit
+Thread-2 end
+<Switchboard users: ['angelluispg89@hotmail.com']> hangup/error
+Thread-4 quit
+Thread-4 end
+>>> OUT
+warning: there are still some references to emesenelib
+references to msn: 7

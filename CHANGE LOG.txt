@@ -1,0 +1,22 @@
+28-11-2011
+ - Implementado el proceso de login
+29-11-2011
+ - Implementada la obtención de los contactos de la cuenta
+30-11-2011
+ - Implementada la obtención de la Libreta de Direcciones de la cuenta
+ - Opción de aparecer ONLINE en el msn
+ - Cambiada la forma de introducir la contraseña, de manera que ahora NO es mostrada por pantalla (funcion getpass)
+1-12-2011
+ - Implementación robusta del proceso login
+ - Implementado un Parser para la Lista de Contactos
+
+COSAS POR ARREGLAR:
+-Contar el numero total de contactos iterando la Lista de Contactos
+-Revisar los comandos recv para ajustar los máximo posible las cantidades de datos que envia el servidor
+
+IDEAS A IMPLEMENTAR:
+-Implementar 2 hilos, de tal manera que uno esté todo el rato a la escucha del servidor y guardando los comandos que envia el servidor en una lista, y el segundo hilo que esté continuamente leyendo de la lista y procesando los comandos que han llegado
+
+FUNCIONES A IMPLEMENTAR:
+-Interfaz GTK
+-Interfaz QT
